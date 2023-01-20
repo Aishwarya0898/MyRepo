@@ -1,0 +1,19 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+* Computer
+* Masters
+* Spring
+
+This is  ***Aishwarya Ramesh***
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+          
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+### Heading Level 3
